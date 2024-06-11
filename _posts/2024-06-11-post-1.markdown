@@ -1,0 +1,12 @@
+---
+title: post 1
+date: 2024-06-11 14:20:00 Z
+---
+
+this is post 1 
+
+Lorem lorem
+
+```javascript
+lol
+```
